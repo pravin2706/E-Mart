@@ -107,13 +107,10 @@ E-Mart is a B2C e-commerce system developed to allow registered members to brows
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions, please contact [Pravin](mailto:pravin@example.com).
+For any questions, please contact [Pravin](mailto:pravinypawar@gmail.com).
 
 ---
 
