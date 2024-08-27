@@ -1,9 +1,4 @@
 # E-Mart
-Certainly! Here’s a basic `README.md` file template for your e-commerce project. You can adjust it as needed to better fit your project specifics.
-
----
-
-# E-Mart
 
 E-Mart is a B2C e-commerce system developed to allow registered members to browse and purchase items through various categories. The system supports handling discounts, loyalty points, and generates invoices in PDF format which are emailed upon successful transactions.
 
